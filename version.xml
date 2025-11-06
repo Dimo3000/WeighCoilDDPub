@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.4</version>
-  <url>https://github.com/Dimo3000/WieghCoilDD/releases/latest/download/WieghInstallClient.msi</url>
-  <mandatory>false</mandatory>
-  <description>
-  </description>
-
+    <version>1.0.0.1</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/v1.0.0.1/WieghInstallClient.exe</url>
+    <changelog>https://github.com/Dimo3000/WeighCoilDDPub/releases</changelog>
+    <mandatory>false</mandatory>
 </item>
