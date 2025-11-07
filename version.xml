@@ -3,6 +3,7 @@
     <version>1.0.0.1</version>
     <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/prog/WieghInstallClient.exe</url>
     <changelog>https://github.com/Dimo3000/WeighCoilDDPub/releases</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
+
 
