@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>3.1.5</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.1.5/WieghInstallClient.exeWieghInstallClient.exe</url>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.1.5/WieghInstallClient.exe</url>
     <changelog>Дизайн активных паллет, улучшена стабильность, был баг с кнопкой печать при продолжении задания (не была активной), версии обновления видны.</changelog>
     <mandatory>false</mandatory>
 </item>
