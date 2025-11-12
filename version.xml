@@ -2,9 +2,10 @@
 <item>
     <version>3.1.5</version>
     <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/prog/WieghInstallClient.exe</url>
-    <changelog>Общие правки.</changelog>
+    <changelog>Дизайн активных паллет, улучшена стабильность, был баг с кнопкой печать при продолжении задания (не была активной), версии обновления видны.</changelog>
     <mandatory>false</mandatory>
 </item>
+
 
 
 
