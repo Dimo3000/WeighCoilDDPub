@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.1.6</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.1.6/WieghInstallClient.exe</url>
+    <version>3.1.7</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.1.7/WieghInstallClient.exe</url>
     <changelog>Добавлено логирование. Вес должен отображаться. Нужно проверить прослеживание статуса весов и кролика.</changelog>
     <mandatory>false</mandatory>
 </item>
+
 
 
 
