@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.2.0</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.0/WieghInstallClient.exe</url>
-    <changelog>Мелкие изменения и доработаны шрифты.</changelog>
+    <version>3.2.1</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.1/WieghInstallClient.exe</url>
+    <changelog>Проблема с обработкой этикеток</changelog>
     <mandatory>false</mandatory>
 </item>
+
 
 
 
