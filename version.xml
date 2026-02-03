@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.2.2</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.2/WieghInstallClient.exe</url>
+    <version>3.2.3</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.3/WieghInstallClient.exe</url>
     <changelog>Проблема с дублированием и автопечать паллеты</changelog>
     <mandatory>false</mandatory>
 </item>
+
 
 
 
