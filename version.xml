@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.2.4</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.4/WieghInstallClient.exe</url>
-    <changelog>3.2.4 - уменьшил шрифт веса</changelog>
+    <version>3.2.5</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.5/WieghInstallClient.exe</url>
+    <changelog>3.2.5 - Завершение паллеты, задаия и передача корректного веса.</changelog>
     <mandatory>false</mandatory>
 </item>
+
 
 
 
