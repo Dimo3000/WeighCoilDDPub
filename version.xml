@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.2.5</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.5/WieghInstallClient.exe</url>
-    <changelog>3.2.5 - Завершение паллеты, задаия и передача корректного веса.</changelog>
+    <version>3.2.6</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.6/WieghInstallClient.exe</url>
+    <changelog>3.2.6 - Активация кнопок при продолжении паллеты и цвета в дизайне новые с шрифтами</changelog>
     <mandatory>false</mandatory>
 </item>
+
 
 
 
