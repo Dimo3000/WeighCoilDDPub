@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.2.8.1</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.8.1/WieghInstallClient.exe</url>
-    <changelog>3.2.8.1 - Функция оставить паллету открытой.</changelog>
+    <version>3.2.8.2</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.8.2/WieghInstallClient.exe</url>
+    <changelog>3.2.8.2 - Продолжение паллеты и задания с весом шпули верным и наконец решил пробему с активацией кнопок. </changelog>
     <mandatory>false</mandatory>
 </item>
+
 
 
 
