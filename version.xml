@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.2.9.1</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.2.9.1/WieghInstallClient.exe</url>
-    <changelog>3.2.9.1 - Годовой номер</changelog>
+    <version>3.3.0</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.3.0/WieghInstallClient.exe</url>
+    <changelog>3.3.0 - Передача по смене, мультзадания, отслеживание аварии</changelog>
     <mandatory>false</mandatory>
 </item>
 
