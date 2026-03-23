@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.3.3</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.3.3/WieghInstallClient.exe</url>
-    <changelog>3.3.3 - Передача веса шпули</changelog>
+    <version>3.3.4</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.3.4/WieghInstallClient.exe</url>
+    <changelog>3.3.4 - Дизайн формы просмотра паллет, помощь при ошибке весов, убрал проверку (!)завершенной паллеты по Передаче по смене</changelog>
     <mandatory>false</mandatory>
 </item>
 
