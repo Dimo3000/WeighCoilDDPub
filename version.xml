@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>3.3.8</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.3.7/WieghInstallClient.exe</url>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.3.8/WieghInstallClient.exe</url>
     <changelog>3.3.8 - убрал ошибку</changelog>
     <mandatory>false</mandatory>
 </item>
