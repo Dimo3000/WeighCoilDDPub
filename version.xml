@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.4.0</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.4.0/WieghInstallClient.exe</url>
-    <changelog>3.4.0 - добавлена ф-ия замены катушек</changelog>
+    <version>3.4.1</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.4.1/WieghInstallClient.exe</url>
+    <changelog>3.4.1 - Исправил ошибки</changelog>
     <mandatory>false</mandatory>
 </item>
 
