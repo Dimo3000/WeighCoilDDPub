@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.4.3</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.4.3/WieghInstallClient.exe</url>
-    <changelog>3.4.3 - Релиз новой версии. Задания, заказы, улучшенные номера и работа с программой. Защиты от повторного нажатия печати и открытия окна программы работа с настройками. панель2 </changelog>
+    <version>3.5.1</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.5.1/WieghInstallClient.exe</url>
+    <changelog>3.5.1 - Релиз новой версии. Задания, заказы, улучшенные номера и работа с программой. Защиты от повторного нажатия печати и открытия окна программы работа с настройками. панель2 </changelog>
     <mandatory>false</mandatory>
 </item>
 
