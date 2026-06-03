@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.3</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.5.3/WieghInstallClient.exe</url>
-    <changelog>3.5.3 - Адаптация под экран</changelog>
+    <version>3.5.4</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.5.4/WieghInstallClient.exe</url>
+    <changelog>3.5.4 - Адаптация под экран</changelog>
     <mandatory>false</mandatory>
 </item>
 
