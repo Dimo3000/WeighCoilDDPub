@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.5</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.5.5/WieghInstallClient.exe</url>
-    <changelog>3.5.5 - Добавлена форма быстрых шаблонов и фикс печати катушки</changelog>
+    <version>3.5.6</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.5.6/WieghInstallClient.exe</url>
+    <changelog>3.5.6 - Переключение между заданиями, доработана форма корректировки паллет и при продолжении задания через открытые смены теперь показывает вес шпули.</changelog>
     <mandatory>false</mandatory>
 </item>
 
