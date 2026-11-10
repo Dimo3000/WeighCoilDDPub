@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.9</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.5.9/WieghInstallClient.exe</url>
-    <changelog>3.5.9 -Дубликаты этикеток, другие нововведения к серверу 4.0.1</changelog>
+    <version>3.6.0</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.6.0/WieghInstallClient.exe</url>
+    <changelog>3.6.0 -показ мастеров и рассет катушек и паллет</changelog>
     <mandatory>false</mandatory>
 </item>
 
