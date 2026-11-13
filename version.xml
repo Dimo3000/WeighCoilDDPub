@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.6.4</version>
-    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.6.4/WieghInstallClient.exe</url>
-    <changelog>3.6.4 - Автообновление превью и заданий по заказам</changelog>
+    <version>3.7.1</version>
+    <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.7.1/WieghInstallClient.exe</url>
+    <changelog>3.7.1 - защита от недовеса и перевеса по среднему и отображение раскладки</changelog>
     <mandatory>false</mandatory>
 </item>
 
