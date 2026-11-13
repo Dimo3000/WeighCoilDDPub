@@ -2,7 +2,7 @@
 <item>
     <version>3.7.2</version>
     <url>https://github.com/Dimo3000/WeighCoilDDPub/releases/download/3.7.2/WieghInstallClient.exe</url>
-    <changelog>3.7.2 - защита от недовеса и перевеса по среднему и отображение раскладки</changelog>
+    <changelog>3.7.2 - резка катушек</changelog>
     <mandatory>false</mandatory>
 </item>
 
